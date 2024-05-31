@@ -7,3 +7,5 @@ Target feature: Close price
 
 - SARIMA: See if market sentiment has an impact on regular SARIMA model
 - ML Models: Create ML models for predicting stock prices 
+
+Models used: SARIMA, SVR, Recurrent Network (LSTM)
