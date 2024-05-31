@@ -11,4 +11,5 @@ Target feature: Close price
 Models used: SARIMA, SVR, Recurrent Network (LSTM)
 
 Appendix contain more information about the machine learning models
+
 Final report contain more information about SARIMA models
